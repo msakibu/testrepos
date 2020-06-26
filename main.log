@@ -1,0 +1,107 @@
+[2020-06-26 23:15:19.043] [info] Configuring validation for socket connection
+[2020-06-26 23:15:19.359] [info] >>>>>> Starting client ->  2020.6.24-stg-3fab328e8
+[2020-06-26 23:15:19.360] [info] Creating directory /Users/devspaces/Library/Application Support/DevSpaces/2020.6.24-stg-3fab328e8.
+[2020-06-26 23:15:19.362] [info] Adding entry in file /Users/devspaces/.inputrc.
+[2020-06-26 23:15:19.376] [info] K8 config cleaned
+[2020-06-26 23:15:19.377] [info] Creating symlink at /Users/devspaces/Library/Application Support/DevSpaces/devspaces with target /Applications/DevSpaces.app/Contents/MacOS/DevSpaces
+[2020-06-26 23:15:19.377] [info] File /Users/devspaces/.profile does not exist, will be created.
+[2020-06-26 23:15:19.377] [info] Creating PATH entry in file /Users/devspaces/.profile.
+[2020-06-26 23:15:19.389] [info] Adding completion entry in file /Users/devspaces/.profile.
+[2020-06-26 23:15:21.207] [info] Configuring validation for socket connection
+[2020-06-26 23:15:21.564] [info] >>>>>> Starting client ->  2020.6.24-stg-3fab328e8
+[2020-06-26 23:15:21.565] [info] Creating symlink at /Users/devspaces/Library/Application Support/DevSpaces/devspaces with target /Applications/DevSpaces.app/Contents/MacOS/DevSpaces
+[2020-06-26 23:15:21.566] [info] Adding completion entry in file /Users/devspaces/.profile.
+[2020-06-26 23:15:21.976] [info] Started validation of SyncThing installation
+[2020-06-26 23:15:21.978] [info] Starting to install SyncThing
+[2020-06-26 23:15:21.978] [info] Architecturex64
+[2020-06-26 23:15:21.979] [info] SyncThing sha https://df-devspaces-release.s3.amazonaws.com/syncthing/sha256sum-current.txt.asc
+[2020-06-26 23:15:21.982] [info] Syncthing folder created successfully : /Users/devspaces/Library/Application Support/DevSpaces/.syncthing
+[2020-06-26 23:15:23.971] [info] /Users/devspaces/Library/Application Support/DevSpaces/sha256sum-current.txt.asc download finished, 3588 bytes written
+[2020-06-26 23:15:23.971] [info] Local Filename for Current SHA256 : /Users/devspaces/Library/Application Support/DevSpaces/sha256sum-current.txt.asc
+[2020-06-26 23:15:23.973] [info] Looking for version into: syncthing-macos-amd64
+[2020-06-26 23:15:23.974] [info] ShaSum information extracted correctly
+[2020-06-26 23:15:24.093] [info] Starting to download SyncThing for installation version: v1.6.1
+[2020-06-26 23:15:24.094] [info] Updater : URL - https://df-devspaces-release.s3.amazonaws.com/syncthing/syncthing-macos-amd64-v1.6.1.tar.gz Compressed file - /Users/devspaces/Library/Application Support/DevSpaces/syncthing-macos-amd64-v1.6.1.tar.gz
+[2020-06-26 23:15:56.951] [info] /Users/devspaces/Library/Application Support/DevSpaces/syncthing-macos-amd64-v1.6.1.tar.gz download finished, 10420365 bytes written
+[2020-06-26 23:15:57.934] [info] Updater : SyncThing extraction completed
+[2020-06-26 23:15:57.980] [info] SyncThing installation success
+[2020-06-26 23:15:58.125] [info] SyncThing initial configuration completed
+[2020-06-26 23:15:58.126] [info] SyncThing configuration success
+[2020-06-26 23:15:58.129] [info] Downloading kubectl binary file
+[2020-06-26 23:15:58.130] [info] Kubernetes folder created successfully : /Users/devspaces/Library/Application Support/DevSpaces/.kubectl
+[2020-06-26 23:15:58.140] [info] Validating the DeviceID for syncthing on first installation: 25JQFHU-4RJBFJK-T3TISDY-HVB24CJ-EM4RBDJ-UEBR5KQ-YNJ374Y-GJAHMQ2
+[2020-06-26 23:15:58.146] [info] SyncThing configuration successfully was wrote config.xml
+[2020-06-26 23:15:58.147] [info] successfully disabled automatic updates and got deviceId value in config.xml
+[2020-06-26 23:16:42.559] [info] /Users/devspaces/Library/Application Support/DevSpaces/.kubectl/kubectl-macosx-amd64.zip download finished, 13440829 bytes written
+[2020-06-26 23:16:42.561] [info] Kubectl downloaded correctly /Users/devspaces/Library/Application Support/DevSpaces/.kubectl
+[2020-06-26 23:16:44.126] [info] Kubectl extracted correctly
+[2020-06-26 23:16:44.139] [info] Kubectl is installed correctly
+[2020-06-26 23:16:44.181] [info] Settings permissions to allow execute kubectl after install
+[2020-06-26 23:16:44.182] [info] Starting TOS Window
+[2020-06-26 23:16:48.439] [info] Terms of service: Accepted 
+[2020-06-26 23:16:48.447] [info] Showing security notification to the user, by first time
+[2020-06-26 23:16:54.011] [info] Security notification accepted by the user
+[2020-06-26 23:16:54.012] [info] Initializing DevFactory DevSpaces.
+[2020-06-26 23:16:54.013] [info] Connecting with UI server
+[2020-06-26 23:16:54.103] [info] Configuring validation for tests preparation
+[2020-06-26 23:16:54.485] [info] UI socket connected, port 19619
+[2020-06-26 23:16:54.555] [info] User logged, impersonating (undefined)
+[2020-06-26 23:16:54.555] [info] Saving all session variables and environment
+[2020-06-26 23:16:54.555] [info] Handling events after login
+[2020-06-26 23:16:54.561] [info] Getting workspaces...
+[2020-06-26 23:16:54.562] [info] Validating updates current messages from server
+[2020-06-26 23:16:54.562] [info] Current language to get messages: en-US
+[2020-06-26 23:16:55.018] [info] UI socket connected, port 19619
+[2020-06-26 23:16:55.021] [info] Sending user credentials to the UI
+[2020-06-26 23:16:55.021] [info] Sending 'logged-in' to UI
+[2020-06-26 23:16:59.938] [info] 28 messages downloaded from server
+[2020-06-26 23:16:59.939] [info] Got 0 workspaces.
+[2020-06-26 23:16:59.957] [info] K8 token updated locally
+[2020-06-26 23:16:59.967] [info] Messages downloaded and saved from the server
+[2020-06-26 23:16:59.979] [info] Environment is changed current environment: stg, previous environment: null
+[2020-06-26 23:16:59.985] [info] Request credentials renew because environment is changed
+[2020-06-26 23:16:59.985] [info] Cleaning current credentials from storage
+[2020-06-26 23:16:59.995] [info] Credentials were restored after start!
+[2020-06-26 23:17:00.064] [info] Current OS darwin = MacOS
+[2020-06-26 23:17:00.069] [info] Configuring validation for Syncthing health
+[2020-06-26 23:17:00.069] [info] Configuring credentials validation and renewal process
+[2020-06-26 23:17:00.069] [info] Configuring listener for command line tasks!
+[2020-06-26 23:17:00.070] [info] Starting Syncthing process
+[2020-06-26 23:17:00.100] [info] Validating current url for SyncThing: 127.0.0.1:8384
+[2020-06-26 23:17:00.100] [info] Getting syncthing port
+[2020-06-26 23:17:00.112] [info] SyncThing configuration successfully was wrote config.xml
+[2020-06-26 23:17:00.112] [info] Configured Syncthing host: 127.0.0.1 port: 49152
+[2020-06-26 23:17:00.129] [info] SyncThing process started
+[2020-06-26 23:17:00.948] [info] Max idle time configured to 10 min.
+[2020-06-26 23:17:00.950] [info] Max idle time configured to 10 min.
+[2020-06-26 23:17:00.950] [info] IDLE monitor: started
+[2020-06-26 23:17:00.951] [error] Cannot connect with the socket API after login: Unable to connect with the API web socket, should be authenticated on DevSpaces
+[2020-06-26 23:17:01.182] [error] Error retrieving data from http://127.0.0.1:49152/rest/events?since=0&limit=10000: (ECONNREFUSED - request to http://127.0.0.1:49152/rest/events?since=0&limit=10000 failed, reason: connect ECONNREFUSED 127.0.0.1:49152) 
+[2020-06-26 23:17:01.183] [debug] Error polling SyncThing events: "GET request to SyncThing failed: Error: Failed request to SyncThing->  /rest/events?since=0&limit=10000: Error: ECONNREFUSED -> request to http://127.0.0.1:49152/rest/events?since=0&limit=10000 failed, reason: connect ECONNREFUSED 127.0.0.1:49152"
+[2020-06-26 23:17:54.098] [info] First Automatic update check
+[2020-06-26 23:17:54.101] [info] Checking for SyncThing update.
+[2020-06-26 23:17:54.101] [info] Architecturex64
+[2020-06-26 23:17:54.102] [info] SyncThing sha https://df-devspaces-release.s3.amazonaws.com/syncthing/sha256sum-current.txt.asc
+[2020-06-26 23:17:55.830] [info] Update not available. 2020.6.24-stg-3fab328e8
+[2020-06-26 23:17:55.834] [info] /Users/devspaces/Library/Application Support/DevSpaces/sha256sum-current.txt.asc download finished, 3588 bytes written
+[2020-06-26 23:17:55.834] [info] Local Filename for Current SHA256 : /Users/devspaces/Library/Application Support/DevSpaces/sha256sum-current.txt.asc
+[2020-06-26 23:17:55.837] [info] Looking for version into: syncthing-macos-amd64
+[2020-06-26 23:17:55.838] [info] ShaSum information extracted correctly
+[2020-06-26 23:17:55.838] [info] Validating if update is required for SyncThing
+[2020-06-26 23:17:55.839] [info] Updater : comparing versions : v1.6.1 current v1.6.1
+[2020-06-26 23:17:55.840] [info] Updater : SyncThing latest version is installed, update is not required
+[2020-06-26 23:17:55.840] [info] SyncThing update validation completed
+[2020-06-26 23:18:00.071] [info] Validating SyncThing health
+[2020-06-26 23:19:00.077] [info] Validating SyncThing health
+[2020-06-26 23:20:00.093] [info] Validating SyncThing health
+[2020-06-26 23:20:07.616] [info] Configuring validation for socket connection
+[2020-06-26 23:20:08.036] [info] UI socket connected, port 19619
+[2020-06-26 23:20:08.293] [info] UI socket disconnected
+[2020-06-26 23:21:00.098] [info] Validating SyncThing health
+[2020-06-26 23:22:00.122] [info] Validating SyncThing health
+[2020-06-26 23:23:00.123] [info] Validating SyncThing health
+[2020-06-26 23:24:00.126] [info] Validating SyncThing health
+[2020-06-26 23:25:00.133] [info] Validating SyncThing health
+[2020-06-26 23:26:00.139] [info] Validating SyncThing health
+[2020-06-26 23:27:00.143] [info] Validating SyncThing health
+[2020-06-26 23:28:00.144] [info] Validating SyncThing health
